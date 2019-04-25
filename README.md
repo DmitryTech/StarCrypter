@@ -17,4 +17,4 @@ and qt.conf.
 
 Final version of program you can download there: https://drive.google.com/open?id=1Vp1Efobqk5tnsRyzA43thhUL9DR-MgI2
 
-DmitryTech
+Kara Dmitriy
